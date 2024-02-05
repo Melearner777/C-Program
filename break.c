@@ -8,10 +8,7 @@ int main(){
         {
             break;
         }
-        //if (age<10){
-        //    continue;
-        //}
-        //printf("we can now exit from the loop");
+
     }
     return 0;
 }
